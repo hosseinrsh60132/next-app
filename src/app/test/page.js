@@ -5,6 +5,7 @@ const page = () => {
       <h2> ine test</h2>
       <h2> ine test</h2>
       <h2> ine test</h2>
+      <h2> ine test</h2>
       <Link href="/testing">تست</Link>
     </div>
   )
